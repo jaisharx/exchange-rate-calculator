@@ -1,0 +1,19 @@
+{
+  "name": "exchange-rate-calculator",
+  "version": "1.0.0",
+  "description": "exchange rate calculator>",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/exchange-rate-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/exchange-rate-calculator/issues"
+  },
+  "homepage": "https://github.com/jaisharx/exchange-rate-calculator#readme"
+}
